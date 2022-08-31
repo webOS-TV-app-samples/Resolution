@@ -1,0 +1,9 @@
+{
+  "id": "com.sample.resolution",
+  "version": "1.0.0",
+  "type": "web",
+  "main": "index.html",
+  "title": "Sample App for webOS TV Video/UI Resolutions",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
